@@ -1,2 +1,3 @@
-# WORD-GUESSING-GAME-IN-PYTHON-WITH-SOURCE-CODE
-The Word Guessing Game is a simple project developed using python. This game is about guessing letters (A-Z) to form the words. If the player guesses the right letter that is within the word, the letter appears at its correct positions. The user can get it.
+Project: GUI Based Tic Tac Toe In PYTHON With Source Code.
+This GUI Based Tic Tac Toe project is written in Python. The project file contains python script (TicTacToe.py). This is a simple GUI based strategy board game that is very easy to understand and use. All the playing rules are the same just like we play in real time tic-tac-toe game. This is a simple multiplayer game.
+The GUI Based Tic Tac Toe starts with a cmd based panel along with GUI board. First, the player has to enter the position of the X and O, then the changes occur in the box automatically. It contains the Minimax algorithm; which is a decision rule used for a two-player game. A simple 2D GUI is provided for easy gameplay. The gameplay design is so simple that user won’t find it difficult to use and understand.
